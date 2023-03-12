@@ -1,3 +1,7 @@
+Deployment Link:: miftin-jyms-5neejp0a0-soulpurr.vercel.app
+
+A webapp created using movieapi which shows details about trending movies
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
