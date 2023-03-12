@@ -1,4 +1,4 @@
-Deployment Link:: miftin-jyms-5neejp0a0-soulpurr.vercel.app
+Deployment Link:: https://miftin-jyms-5neejp0a0-soulpurr.vercel.app/
 
 A webapp created using movieapi which shows details about trending movies
 
